@@ -4,11 +4,6 @@ This is a sample application that creates an API endpoint and the API endpoint f
 
 ![alt text](https://github-cf.sourabh.org/images/aws-workshop-architecture.png)
 
-* Clone the repository
-
-```
-git clone https://github.com/soumoks/aws-workshop.git
-```
 
 * Install Dependencies
 
